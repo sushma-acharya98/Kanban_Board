@@ -1,5 +1,43 @@
 # form-builder
-# Create a drag-and-drop form builder that allows users to create custom forms.
+# Drag-and-Drop Kanban Board
+
+# Features
+- Implemented drag-and-drop functionality using 
+- Smooth animations for card movement
+- Added local storage persistence
+- Used TypeScript 
+
+# Prerequisites
+- Node.js & NPM
+
+# installation
+- Next.js
+- Tailwind css
+- react-beautiful-dnd 
+
+# Folder Structure
+- src
+   - app
+   - component
+   - dragform
+
+# Limitations
+- Single-level Columns
+- No Notifications
+- No user registration
+
+#  Future improvements
+
+-  Backend Integration
+-  user registration
+-  keyboard accessibility
+- undo/redo
+
+# Time spent
+- 5hr
+
+
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -8,6 +46,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+
 npm run dev
 # or
 yarn dev
